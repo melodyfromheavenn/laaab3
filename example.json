@@ -1,0 +1,38 @@
+[
+  {
+    "Title": "Sample Article 1",
+    "Annotation": "This is the first article.",
+    "Author": "John Doe",
+    "FilePath": "/path/to/article1",
+    "Comments": [
+      {
+        "Author": "Alice",
+        "Content": "Great article!"
+      },
+      {
+        "Author": "Bob",
+        "Content": "I enjoyed reading this."
+      }
+    ],
+    "Id": 1,
+    "IsSelected": false
+  },
+  {
+    "Title": "Sample Article 2",
+    "Annotation": "Another article for testing.",
+    "Author": "Jane Doe",
+    "FilePath": "/path/to/article2",
+    "Comments": [
+      {
+        "Author": "Charlie",
+        "Content": "Interesting insights."
+      },
+      {
+        "Author": "David",
+        "Content": "I have a question regarding this."
+      }
+    ],
+    "Id": 2,
+    "IsSelected": false
+  }
+]
